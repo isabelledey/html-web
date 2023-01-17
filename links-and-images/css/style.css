@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+  color: rgb(74, 33, 85);
+}
+h1 {
+  font-size: 32px;
+}
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+  border: 1px solid rgb(189, 131, 217);
+}
+img {
+  border-radius: 25%;
+}
